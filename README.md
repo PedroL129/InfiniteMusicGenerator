@@ -1,0 +1,2 @@
+# InfiniteMusicGenerator
+Random music generator
